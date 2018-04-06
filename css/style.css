@@ -1,0 +1,13 @@
+h1, h2 {
+  display: inline;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #910909;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+}
